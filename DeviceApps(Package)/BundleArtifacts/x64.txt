@@ -1,0 +1,3 @@
+MainPackage=E:\work\Project\UWP\DeviecApps\DeviecApps\DeviceApps(Package)\bin\x64\Release\DeviceApps(Package)_1.0.1.0_x64.appx
+SymbolPackage=E:\work\Project\UWP\DeviecApps\DeviecApps\DeviceApps(Package)\obj\x64\Release\Symbols\DeviceApps(Package)_1.0.1.0_x64.appxsym
+ResourcePack=E:\work\Project\UWP\DeviecApps\DeviecApps\DeviceApps(Package)\bin\x64\Release\DeviceApps(Package)_1.0.1.0_scale-100.appx

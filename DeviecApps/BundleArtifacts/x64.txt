@@ -1,0 +1,2 @@
+MainPackage=D:\work\Project\UWP\DeviecApps\DeviecApps\DeviecApps\bin\x64\Release\DeviecApps_1.0.19.0_x64.appx
+SymbolPackage=D:\work\Project\UWP\DeviecApps\DeviecApps\DeviecApps\AppPackages\DeviecApps_1.0.19.0_Test\DeviecApps_1.0.19.0_x64.appxsym

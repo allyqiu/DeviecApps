@@ -1,0 +1,3 @@
+MainPackage=D:\work\Project\UWP\DeviecApps\DeviecApps\DeviecApps\bin\ARM\Release\DeviecApps_1.0.19.0_ARM.appx
+SymbolPackage=D:\work\Project\UWP\DeviecApps\DeviecApps\DeviecApps\AppPackages\DeviecApps_1.0.19.0_Test\DeviecApps_1.0.19.0_ARM.appxsym
+ResourcePack=D:\work\Project\UWP\DeviecApps\DeviecApps\DeviecApps\bin\ARM\Release\DeviecApps_1.0.19.0_scale-100.appx
